@@ -108,7 +108,7 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
   }
 
   .grid-item {
-      width: 250px; /* Set width to create a square */
+      width: 100px; /* Set width to create a square */
       height: 250px; /* Set height equal to width to create a square */
       overflow: hidden;
       display: flex;
