@@ -1,7 +1,7 @@
 ---
 layout: single
 # title: "MISC"
-permalink: /misc/
+permalink: /life/
 comments: true
 author_profile: true
 # classes: wide
@@ -60,22 +60,22 @@ Below, you'll find six hilarious memes about Coca and Cola. Hover your mouse ove
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca1.jpeg" alt="Coca 1">
+        <img src="../assets/images/life/coca/coca1.jpeg" alt="Coca 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca2.jpeg" alt="Coca 2">
+        <img src="../assets/images/life/coca/coca2.jpeg" alt="Coca 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca3.jpeg" alt="Coca 3">
+        <img src="../assets/images/life/coca/coca3.jpeg" alt="Coca 3">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola1.jpeg" alt="Cola 1">
+        <img src="../assets/images/life/cola/cola1.jpeg" alt="Cola 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola2.jpeg" alt="Cola 2">
+        <img src="../assets/images/life/cola/cola2.jpeg" alt="Cola 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola3.jpeg" alt="Cola 3">
+        <img src="../assets/images/life/cola/cola3.jpeg" alt="Cola 3">
     </div>
 </div>
 

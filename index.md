@@ -17,6 +17,8 @@ Currently, I am working as a research assistant in Professor [Garrison Cottrell]
 Beyond research, I have a deep passion for education. As an 7-time undergraduate teaching assistant, I've continuously supported 3 courses for the past year across the Computer Science and Engineering, Data Science departments, aiding over 1,200 students in their academic journeys. Collaborating with 5 faculty members, I've sought to elevate the course experiences for UCSD students. In my teaching endeavors, I am primarily mentored by Dr. [Justin Eldridge](https://eldridgejm.github.io/) and Dr. [Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). Discover more at [Teaching](/teaching).
 
 
+Beyond academics, I'm a jazz band drummer who has two dogs. Discover more at [Life](/life).
+
 ---
 
 
