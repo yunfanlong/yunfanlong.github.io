@@ -22,66 +22,6 @@ Below is me practicing with Dave Bruck's Take Five:
 
 <center><iframe width="560" height="315" src="https://drive.google.com/file/d/11R97eNhqTX3bNrVXfBkKmSNe_hETaeXJ/preview" title="Drum Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Dog Learning 🐕
-
-Move over drumming, because Dog Learning steals the show in my life, led by my furry maestros, Coca and Cola! These two aren't just pets, they're tail-wagging, bark-singing conductors of daily fun. Whether they're in a synchronized treat-snatching routine or performing a barking duet at the mailman, every day with Coca and Cola is like a lively, paws-tapping musical!
-
-Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over them to take a peek, or if you're on your phone, just give them a tap to see the fun unfold.
-
-<style>
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-gap: 5px;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .grid-item {
-        width: 100%;
-        height: 200px; /* Fixed height for uniformity */
-        overflow: hidden;
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .grid-item img {
-        transition: opacity 0.3s ease;
-        width: 100%; /* Full width within grid item */
-        height: 100%; /* Full height within grid item */
-        object-fit: cover; /* Ensures aspect ratio is maintained */
-        opacity: 0; /* For the hover effect */
-    }
-
-    .grid-item:hover img {
-        opacity: 1;
-    }
-</style>
-
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="../assets/images/life/coca/coca1.jpeg" alt="Coca 1">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/life/coca/coca2.jpeg" alt="Coca 2">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/life/coca/coca3.jpeg" alt="Coca 3">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/life/cola/cola1.jpeg" alt="Cola 1">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/life/cola/cola2.png" alt="Cola 2">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/life/cola/cola3.png" alt="Cola 3">
-    </div>
-</div>
-
-
 ### Music Listening - My Top 3 Favorite Jazz Piece 🎵
 
 <style>
@@ -150,3 +90,61 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
     </tr>
   </tbody>
 </table>
+
+
+### Dog Learning 🐕
+
+Move over music, because Dog Learning steals the show in my life, led by my furry maestros, Coca and Cola! These two aren't just pets, they're tail-wagging, bark-singing conductors of daily fun. Whether they're in a synchronized treat-snatching routine or performing a barking duet at the mailman, every day with Coca and Cola is like a lively, paws-tapping musical!
+
+Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over them to take a peek, or if you're on your phone, just give them a tap to see the fun unfold.
+
+<style>
+  .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+      grid-gap: 5px; /* Adjust the gap as needed */
+      justify-content: center;
+      align-items: center;
+  }
+
+  .grid-item {
+      width: 250px; /* Set width to create a square */
+      height: 250px; /* Set height equal to width to create a square */
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .grid-item img {
+      width: auto; /* Adjust width automatically */
+      height: 100%; /* Set height to fill the container */
+      object-fit: cover; /* This will cover the area and clip the image as needed */
+      transition: opacity 0.3s ease;
+  }
+
+  .grid-item:hover img {
+      opacity: 1;
+  }
+</style>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="../assets/images/life/coca/coca1.jpeg" alt="Coca 1">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/life/coca/coca2.jpeg" alt="Coca 2">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/life/coca/coca3.jpeg" alt="Coca 3">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/life/cola/cola1.jpeg" alt="Cola 1">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/life/cola/cola2.png" alt="Cola 2">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/life/cola/cola3.png" alt="Cola 3">
+    </div>
+</div>

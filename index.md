@@ -4,8 +4,6 @@ author_profile: true
 classes: wide
 ---
 
-## About Me😎
-
 Hello! My name is **Yunfan (Justin) Long**. I am a fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing double majors in Data Science (BS) and Computer Engineering (BS), with a [Major GPA (Upper Div)](https://senate.ucsd.edu/operating-procedures/educational-policies/grading-and-gpa-calculations/) of 4.0 in both. I am expected graduate in June 2024.
 
 My primary research interest is centered around the development and optimization of <u>Computer Vision</u> models on <u>Scene Recognition</u> tasks, specifically for out-of-distribution image. Leveraging my expertise in machine learning, deep learning, and data analysis, I've made significant contributions to various research and internship projects in the healthcare industry.
