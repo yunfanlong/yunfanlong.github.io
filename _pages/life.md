@@ -127,21 +127,21 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
 </style>
 <div class="grid-container">
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca1.png" alt="Coca 1">
+        <img src="../assets/images/life/coca/coca1.jpg" alt="Coca 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca2.png" alt="Coca 2">
+        <img src="../assets/images/life/coca/coca2.jpg" alt="Coca 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca3.png" alt="Coca 3">
+        <img src="../assets/images/life/coca/coca3.jpg" alt="Coca 3">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola1.png" alt="Cola 1">
+        <img src="../assets/images/life/cola/cola1.jpg" alt="Cola 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola2.png" alt="Cola 2">
+        <img src="../assets/images/life/cola/cola2.jpg" alt="Cola 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola3.png" alt="Cola 3">
+        <img src="../assets/images/life/cola/cola3.jpg" alt="Cola 3">
     </div>
 </div>
