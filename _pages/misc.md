@@ -10,7 +10,7 @@ toc_label: "Table of Contents"
 toc_icon: "book"
 toc_sticky: true
 ---
-Beyond academics, I love playing drums🥁, playing basketball🏀, hiking🏃, playing Nintendo Swith🎮, watching Janpanese Anime, and more. ⬇️
+Beyond academics, I love playing drums🥁, playing basketball🏀, hiking🏃, playing Nintendo Swith🎮, watching Janpanese Anime, and more.
 
 This page captures some fun facts about me.
 
