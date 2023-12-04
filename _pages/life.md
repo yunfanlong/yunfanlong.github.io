@@ -72,10 +72,10 @@ Below, you'll find six hilarious memes about Coca and Cola. Hover your mouse ove
         <img src="../assets/images/life/cola/cola1.jpeg" alt="Cola 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola2.jpeg" alt="Cola 2">
+        <img src="../assets/images/life/cola/cola2.png" alt="Cola 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola3.jpeg" alt="Cola 3">
+        <img src="../assets/images/life/cola/cola3.png" alt="Cola 3">
     </div>
 </div>
 
