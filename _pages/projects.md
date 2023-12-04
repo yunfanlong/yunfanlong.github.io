@@ -73,7 +73,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <h3>Amazon Massive Intent Classification with Bert and SimCLR/SupContrast</h3>
       <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa4-hxy">code</a>
+      <a href="https://github.com/yunfanlong/Bert-Massive-Intent-Classification/blob/main/Report_Bert_SIMCLR.pdf">report</a> / <a href="https://github.com/yunfanlong/Bert-Massive-Intent-Classification">code</a>
       <p>In this study, we explore the use of a pre-trained BERT model for categorizing user intent, using the Amazon Massive Intent dataset with 60 intent categories. We start with a pre-trained BERT model as an encoder, adding a classifier layer for final predictions. This baseline achieves a test accuracy of 88.9711%. By reducing the batch size to 16 and incorporating warm-up and Layer-wise Learning Rate Decay (LLRD), we enhance the model's performance, reaching a test accuracy of 90.0471%. We experiment with contrastive loss functions, specifically SimCLR and SupContrast. SimCLR, an unsupervised method, yields a lower test accuracy of 61.829%, as expected. SupContrast, closer to our baseline approach, achieves a comparable test accuracy of 88.1977%.
 </p>
     </td>
@@ -87,7 +87,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <h3>Automatic Image Captioning</h3>
       <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa3-jdg">code</a>
+      <a href="https://github.com/yunfanlong/Automatic-Image-Captioning/blob/main/Report_CNN_LSTM.pdf">report</a> / <a href="https://github.com/yunfanlong/Automatic-Image-Captioning">code</a>
       <p>In this study, we developed image captioning models for the COCO Image Captioning Task, utilizing a subset (1/5) of the dataset with five captions per image. We employed two architectures. 1. Custom Model: A combination of a custom CNN encoder and an LSTM decoder. After tuning the hidden and embedding sizes, it achieved a BLEU-1 score of 48.502, BLEU-4 score of 1.986, and a cross-entropy test loss of 1.508. 2.Pretrained Model: An integration of a pretrained Resnet-50 encoder and an LSTM decoder. Optimizing the optimizer and learning rate, this model reached a BLEU-1 score of 50.267, BLEU-4 score of 1.542, and a cross-entropy test loss of 2.308. Both models were evaluated using BLEU-1, BLEU-4 scores, and cross-entropy loss, with the second model slightly outperforming the first in BLEU-1 score.</p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <h3>From-Scratch Implementation, Optimization, and Evaluation of Multi-layer Neural Networks</h3>
       <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa3-jdg">code</a>
+      <a href="https://github.com/yunfanlong/Multi-Layer-NN/blob/main/Report_NN.pdf">report</a> / <a href="https://github.com/yunfanlong/Multi-Layer-NN">code</a>
       <p>In this study, we implemented the multi-layer neural network from scratch to classify images from different classes in CIFAR-10 dataset. We used softmax function as the activation function for output layer. In our original model, we used one hidden layer with 128 hidden units, and chose tanh function as the activation for hidden layer with learning rate as 0.00001, batch size as 128, momentum gamma as 0.9 with no regularization. We applied stochastic gradient descent in all parts of our experiment. With our original model, we reached the test accuracy of 47.36%. Then, in other parts of experiment, we tried L1 and L2 regularization, and also tried to use other activation function(ReLU & Sigmoid) for hidden units and change the number of hidden units and hidden layers. We achieved 50.77% as our highest test accuracy with ReLU activation for hidden units.</p>
     </td>
   </tr>
@@ -113,7 +113,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <h3>Cloth Recommender System</h3>
       <strong>Yunfan Long</strong>, Muchan Li
       <br>
-      <a href=<a href="../assets/pdfs/cloth_recommend.pdf">report</a>
+      <a href="../assets/pdfs/cloth_recommend.pdf">report</a>
       <p>In this project, we first performed exploratory data analysis on RentTheRunway datasets. We then implemented various types of recommendation system models to recommend cloths to users, predict ratings based on sentiment analysis, and predict cloth categories.</p>
     </td>
   </tr>

@@ -22,9 +22,9 @@ Below is me practicing with Dave Bruck's Take Five:
 
 <center><iframe width="560" height="315" src="https://drive.google.com/file/d/11R97eNhqTX3bNrVXfBkKmSNe_hETaeXJ/preview" title="Drum Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Music Listening
+### Music Listening 🎵
 
-Here are My Top 3 Favorite Jazz Piece 🎵
+Here are My Top 3 Favorite Jazz Piece
 
 <style>
   table {
@@ -106,7 +106,7 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
     }
 
     .grid-item {
-        width: 80%;
+        width: 100%;
         max-width: 250px;
         max-height: 250px;
         margin: 0 auto;
