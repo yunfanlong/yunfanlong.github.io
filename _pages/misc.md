@@ -18,7 +18,9 @@ This page captures some fun facts about me.
 
 While I'm certainly a fan of Deep Learning, it's Drum Learning that really gets me in a spin - there's just something about nailing a drum solo that even the smartest AI can't quite beat!
 
-<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="DrumLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+Below is me practicing with Dave Bruck's Take Five:
+
+<center><iframe width="560" height="315" src="https://drive.google.com/file/d/11R97eNhqTX3bNrVXfBkKmSNe_hETaeXJ/view" title="Drum Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ### Dog Learning 🐕
 
@@ -58,22 +60,22 @@ Below, you'll find six hilarious memes about Coca and Cola. Hover your mouse ove
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca1.JPG" alt="Coca 1">
+        <img src="../assets/images/misc/coca/coca1.jpeg" alt="Coca 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca2.JPG" alt="Coca 2">
+        <img src="../assets/images/misc/coca/coca2.jpeg" alt="Coca 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/coca/coca3.JPG" alt="Coca 3">
+        <img src="../assets/images/misc/coca/coca3.jpeg" alt="Coca 3">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola1.JPG" alt="Cola 1">
+        <img src="../assets/images/misc/cola/cola1.jpeg" alt="Cola 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola2.JPG" alt="Cola 2">
+        <img src="../assets/images/misc/cola/cola2.jpeg" alt="Cola 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/cola/cola3.JPG" alt="Cola 3">
+        <img src="../assets/images/misc/cola/cola3.jpeg" alt="Cola 3">
     </div>
 </div>
 
@@ -81,22 +83,31 @@ Below, you'll find six hilarious memes about Coca and Cola. Hover your mouse ove
 ### Music Listening - My Top 3 Favorite Jazz Piece 🎵
 
 <style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* This helps to prevent stretching */
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    word-wrap: break-word; /* Ensures text wraps within the cell */
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  img {
+    width: auto;
+    height: auto;
+    max-width: 120px;
+    max-height: 200px;
+  }
+  .youtube-link {
+    word-break: break-all; /* This will ensure the URL breaks to the next line if needed */
+  }
 </style>
+
 <table>
   <thead>
     <tr>
@@ -108,7 +119,7 @@ tr:nth-child(even) {
     </tr>
   </thead>
   <tbody>
-    <tr>
+        <tr>
       <td><strong>Birdland</strong></td>
       <td>Weather Report</td>
       <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
