@@ -99,47 +99,46 @@ Move over music, because Dog Learning steals the show in my life, led by my furr
 Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over them to take a peek, or if you're on your phone, just give them a tap to see the fun unfold.
 
 <style>
-  .grid-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-      grid-gap: 5px; /* Adjust the gap as needed */
-      justify-content: center;
-      align-items: center;
-  }
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 5px;
+        justify-content: center;
+        align-items: center;
+    }
 
-  .grid-item {
-      width: 100px; /* Set width to create a square */
-      height: 250px; /* Set height equal to width to create a square */
-      overflow: hidden;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-  }
+    .grid-item {
+        width: 80%;
+        max-width: 250px;
+        max-height: 250px;
+        margin: 0 auto;
+        overflow: hidden;
+        position: relative;
+    }
 
-  .grid-item img {
-      width: auto; /* Adjust width automatically */
-      height: 100%; /* Set height to fill the container */
-      object-fit: cover; /* This will cover the area and clip the image as needed */
-      transition: opacity 0.3s ease;
-  }
+    .grid-item img {
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        width: 100%;
+        height: auto;
+    }
 
-  .grid-item:hover img {
-      opacity: 1;
-  }
+    .grid-item:hover img {
+        opacity: 1;
+    }
 </style>
-
 <div class="grid-container">
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca1.jpeg" alt="Coca 1">
+        <img src="../assets/images/life/coca/coca1.png" alt="Coca 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca2.jpeg" alt="Coca 2">
+        <img src="../assets/images/life/coca/coca2.png" alt="Coca 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/coca/coca3.jpeg" alt="Coca 3">
+        <img src="../assets/images/life/coca/coca3.png" alt="Coca 3">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/life/cola/cola1.jpeg" alt="Cola 1">
+        <img src="../assets/images/life/cola/cola1.png" alt="Cola 1">
     </div>
     <div class="grid-item">
         <img src="../assets/images/life/cola/cola2.png" alt="Cola 2">
