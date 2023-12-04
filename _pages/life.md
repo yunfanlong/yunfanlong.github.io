@@ -10,7 +10,7 @@ toc_label: "Table of Contents"
 toc_icon: "book"
 toc_sticky: true
 ---
-I love playing drums🥁 (of course - as a jazz band drummer), playing basketball🏀, hiking🏃, playing Nintendo Swith🎮, watching Janpanese Anime, and more.
+I love playing drums🥁 (of course - as a drummer), playing basketball🏀, hiking🏃, playing Nintendo Swith🎮, watching Janpanese Anime, and more.
 
 This page captures some fun facts about me.
 
@@ -22,7 +22,9 @@ Below is me practicing with Dave Bruck's Take Five:
 
 <center><iframe width="560" height="315" src="https://drive.google.com/file/d/11R97eNhqTX3bNrVXfBkKmSNe_hETaeXJ/preview" title="Drum Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Music Listening - My Top 3 Favorite Jazz Piece 🎵
+### Music Listening
+
+Here are My Top 3 Favorite Jazz Piece 🎵
 
 <style>
   table {
@@ -56,36 +58,32 @@ Below is me practicing with Dave Bruck's Take Five:
       <th>Song</th>
       <th>Author</th>
       <th>Cover</th>
-      <th>Youtube Link</th>
       <th>Comments</th>
     </tr>
   </thead>
   <tbody>
         <tr>
-      <td><strong>Birdland</strong></td>
+      <td><strong><a href="https://www.youtube.com/watch?v=_Fm10whccto">Birdland</a></strong></td>
       <td>Weather Report</td>
       <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
         <img src="../assets/images/birdland.png" alt="product image" style="width:70%; height:auto; max-width:100%; max-height:200px" />
       </td>
-      <th>https://www.youtube.com/watch?v=_Fm10whccto</th>
       <td>I love "Birdland" for its exceptional drumming, providing a rhythmic backbone that blends explosive energy with gentle releases, capturing the essence of city life through a transition from mellow tones to a lively big band sound.</td>
     </tr>
     <tr>
-      <td><strong>And Then I Knew</strong></td>
+      <td><strong><a href="https://www.youtube.com/watch?v=1Nz9bq-3mfc">And Then I Knew</a></strong></td>
       <td>Pat Metheny</td>
       <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
         <img src="../assets/images/and-then-i-knew.png" alt="product image" style="width:70%; height:auto; max-width:100%; max-height:200px" />
       </td>
-      <th>https://www.youtube.com/watch?v=1Nz9bq-3mfc</th>
       <td>In Pat Metheny's "And Then I Knew," subtle percussion enhances the track's airy ambiance, with light cymbal brushes and delicate hi-hat strokes complementing Metheny's style, creating a dreamy, emotionally deep soundscape.</td>
     </tr>
     <tr>
-      <td><strong>Take the A Train</strong></td>
+      <td><strong><a href="https://www.youtube.com/watch?v=cb2w2m1JmCY">Take the A Train</a></strong></td>
       <td>Duke Ellington</td>
       <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
         <img src="../assets/images/take-the-a-train.png" alt="product image" style="width:70%; height:auto; max-width:100%; max-height:200px" />
       </td>
-      <th>https://www.youtube.com/watch?v=cb2w2m1JmCY</th>
       <td>"Take the A Train" by Duke Ellington features vibrant swing rhythm percussion, with crisp cymbal work and a dynamic brass and reed interplay, epitomizing the energy and elegance of the jazz age.</td>
     </tr>
   </tbody>
