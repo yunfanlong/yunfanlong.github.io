@@ -4,7 +4,14 @@ author_profile: true
 classes: wide
 ---
 
----
+<table style="width:0%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0%;width:0%;vertical-align:left">
+              <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lj3kD7Jlzfmdr-aDUSDmpAFMxXozeTkkbPe71KzQ-Vg&cl=ffffff&w=a"></script>
+              <p></p>
+            </td>
+          </tr>
+</table>
 
 ## About Me
 
@@ -31,12 +38,3 @@ My calendar is embeded below. All events are tentative and subject to change.
 <iframe src="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&mode=WEEK&src=eXVsb25nQHVjc2QuZWR1&color=%234285F4" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ---
-
-<table style="width:0%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:0%;width:0%;vertical-align:left">
-              <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lj3kD7Jlzfmdr-aDUSDmpAFMxXozeTkkbPe71KzQ-Vg&cl=ffffff&w=a"></script>
-              <p></p>
-            </td>
-          </tr>
-</table>
