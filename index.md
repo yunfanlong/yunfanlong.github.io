@@ -4,9 +4,9 @@ author_profile: true
 classes: wide
 ---
 
-**About Me**
-
 ---
+
+## About Me
 
 Hello! My name is **Yunfan (Justin) Long**. I am a fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing double majors in Data Science (BS) and Computer Engineering (BS), with a [Major GPA (Upper Div)](https://senate.ucsd.edu/operating-procedures/educational-policies/grading-and-gpa-calculations/) of 4.0 in both. I am expected graduate in June 2024.
 
