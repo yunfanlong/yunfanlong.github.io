@@ -28,7 +28,11 @@ My calendar is embeded below. All events are tentative and subject to change.
 
 ---
 
-<div class="repo p-2 text-center">
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M0k1ByWXPxEHLrnK8LFf35-_1RkYom_ad8TErfbW4Nw&cl=ffffff&w=a"></script>
-</div>
+<table style="width:0%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0%;width:0%;vertical-align:left">
+              <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lj3kD7Jlzfmdr-aDUSDmpAFMxXozeTkkbPe71KzQ-Vg&cl=ffffff&w=a"></script>
+              <p></p>
+            </td>
+          </tr>
+</table>
