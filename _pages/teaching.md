@@ -41,7 +41,7 @@ My responsibilities:
     <em>UCSD CSE 251B WI24</em>
     <br>
 
-    <!-- <a href="https://sites.google.com/view/cse151b">website (borrowed from Prof. Rose Yu as Prof. Gary prefers Piazza)</a> -->
+    <a href="../assets/pdfs/CSE_151B251B_syllabus_w24.pdf">syllabus</a>
     
     <p></p>
     <p>This course covers Hopfield networks, application to optimization problems layered perceptrons, recurrent networks, and unsupervised learning. Programming exercises explore model behavior with a final project or exam on a cognitive science, artificial intelligence, or optimization problem of the student’s choice.</p>
@@ -61,7 +61,7 @@ My responsibilities:
     <em>UCSD CSE 151B WI24</em>
     <br>
 
-    <!-- <a href="https://sites.google.com/view/cse151b">website (borrowed from Prof. Rose Yu as Prof. Gary prefers Piazza)</a> -->
+    <a href="../assets/pdfs/CSE_151B251B_syllabus_w24.pdf">syllabus</a>
     
     <p></p>
     <p>This course covers the fundamentals of neural networks. We introduce linear regression, logistic regression, perceptrons, multilayer networks and back-propagation, convolutional neural networks, recurrent networks, and deep networks trained by reinforcement learning.</p>
