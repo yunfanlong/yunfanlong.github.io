@@ -168,7 +168,7 @@ More unpublished/ongoing content to come!
       <img src="../assets/images/projects/bufmgr.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Database Buffer Management System</h3>
+      <h3>Database Buffer Manager</h3>
       <strong>Yunfan Long</strong>
       <br>
       <a href="https://github.com/yunfanlong/BadgerDB-Buffer-Manager">code</a>
