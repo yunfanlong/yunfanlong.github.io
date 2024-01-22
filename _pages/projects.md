@@ -21,7 +21,7 @@ More unpublished/ongoing content to come!
       <img src="../assets/images/projects/cornet.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>LPnet: Log Polar Transformed Cornet with Visual-Saliency LSTM Architechture for Scene Verification</h3>
+      <h3>LPnet: Log Polar Transformed Cornet Encoder with SIMCLR Decoder for Scene Verification</h3>
       <strong>Yunfan Long</strong>
       <br>
       <a href="https://docs.google.com/presentation/d/19ZmARbVpGQAUvkekOrDVXUlb_zu-uErg/edit?usp=sharing&ouid=107659118907272604893&rtpof=true&sd=true">slides</a> / <a href="https://github.com/yunfanlong/GURU-Research">code</a>
@@ -31,7 +31,7 @@ More unpublished/ongoing content to come!
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/nlp.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/nlp.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>CGEN: Semi-Supervised NLP Powered Cohort Generation</h3>
