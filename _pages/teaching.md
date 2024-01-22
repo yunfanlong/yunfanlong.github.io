@@ -11,7 +11,7 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
-Below is a comprehensive list detailing the classes for which I served as an undergraduate teaching assistant at UCSD. Instructors are listed in the order in which I worked with them. Where available, instructor evaluations are attached.
+During my tenure as an Undergraduate Teaching Assistant at UCSD, I had the opportunity to collaborate with a diverse group of instructors across various courses, as listed below. To illustrate the effectiveness and impact of our joint efforts, I have included instructor evaluations where available.
 
 My responsibilities:
 
