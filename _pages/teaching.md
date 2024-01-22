@@ -11,47 +11,14 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
-## Undergraduate Teaching Assistant Experience at UCSD
+Below is a comprehensive list detailing the classes for which I served as an undergraduate teaching assistant at UCSD. Instructors are listed in the order in which I worked with them. Where available, instructor evaluations are attached.
 
-As an Undergraduate Teaching Assistant at the University of California, San Diego (UCSD), I had the opportunity to collaborate with a diverse group of instructors across various courses, as listed below. To illustrate the effectiveness and impact of our joint efforts, I have included instructor evaluations where available.
+My responsibilities:
 
-### My Responsibilities
+- Automated the grading process by developing test cases and grading systems in Python, Java, and Stata. Deployed the autograder using Docker on AWS EC2 instances, specifically through Gradescope.
+- Assisted over 1,500 undergraduate and graduate students by conducting regular technical office hours, creating and grading assignments and exams, and overseeing the class forum and logistics.
+- Guided and mentored new staff, equipping them with the managerial and technical skills required to excel as course assistants.
 
-#### Innovating Grading Processes
-- Developed and implemented automated grading systems in **Python**, **Java**, and **Stata**.
-- Deployed these systems using **Docker** on **AWS EC2** instances, integrating with **Gradescope**.
-- Significantly improved grading efficiency and consistency.
-
-#### Student Support and Engagement
-- Assisted over 1,500 undergraduate and graduate students.
-- Conducted regular technical office hours for individualized student assistance.
-- Created, administered, and graded various assignments and exams.
-- Managed and moderated class forums, ensuring an engaging learning environment.
-- Handled course logistics for smooth operations.
-
-#### Mentoring and Team Leadership
-- Guided new staff members, imparting essential managerial and technical skills.
-- Prepared new course assistants for successful teaching and administrative roles.
-- Contributed to building a capable and effective educational support team.
-
-
-
-My Responsibilities:
-
-- Innovating Grading Processes:
-Developed and implemented automated grading systems using Python, Java, and Stata.
-Deployed these systems using Docker on AWS EC2 instances, with integration into Gradescope.
-Enhanced grading efficiency and consistency across courses.
-Student Support and Engagement:
-Assisted and guided over 1,500 undergraduate and graduate students.
-Conducted regular technical office hours for personalized student support.
-Created and graded a variety of assignments and exams, contributing to student assessment and learning.
-Managed and moderated class forums, fostering an interactive educational environment.
-Oversaw course logistics to ensure smooth course operation.
-Mentoring and Team Leadership:
-Mentored new staff, focusing on the development of their managerial and technical skills.
-Played a key role in preparing new course assistants for success in their roles.
-Contributed to building a competent and effective educational team.
 
 <!-- ### Teaching by Department
 {: .no_toc .text-delta }
