@@ -100,7 +100,7 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
     .grid-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr); /* Adjust the fraction if necessary */
-        grid-gap: 3px; /* Reduced gap */
+        grid-gap: 0.1px; /* Reduced gap */
         justify-content: center;
         align-items: center;
     }
