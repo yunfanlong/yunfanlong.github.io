@@ -127,7 +127,7 @@ More unpublished/ongoing content to come!
       <img src="../assets/images/projects/concurrency-control.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Database Concurrency Controler</h3>
+      <h3>Database Concurrency Controller</h3>
       <strong>Yunfan Long</strong>
       <br>
       <a href="https://github.com/yunfanlong/Bustub-Concurrency-Control/blob/main/report.md">report</a> / <a href="https://github.com/yunfanlong/Bustub-Concurrency-Control/tree/main">code</a>
