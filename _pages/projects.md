@@ -31,7 +31,7 @@ More unpublished/ongoing content to come!
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/nlp.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/nlp.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>CGEN: Semi-Supervised NLP Powered Cohort Generation</h3>
