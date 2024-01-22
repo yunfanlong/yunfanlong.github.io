@@ -73,8 +73,7 @@ More unpublished/ongoing content to come!
       <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
       <a href="https://github.com/yunfanlong/Bert-Massive-Intent-Classification/blob/main/Report_Bert_SIMCLR.pdf">report</a> / <a href="https://github.com/yunfanlong/Bert-Massive-Intent-Classification">code</a>
-      <p>In this study, we explore the use of a pre-trained BERT model for categorizing user intent, using the Amazon Massive Intent dataset with 60 intent categories. We start with a pre-trained BERT model as an encoder, adding a classifier layer for final predictions. This baseline achieves a test accuracy of 88.9711%. By reducing the batch size to 16 and incorporating warm-up and Layer-wise Learning Rate Decay (LLRD), we enhance the model's performance, reaching a test accuracy of 90.0471%. We experiment with contrastive loss functions, specifically SimCLR and SupContrast. SimCLR, an unsupervised method, yields a lower test accuracy of 61.829%, as expected. SupContrast, closer to our baseline approach, achieves a comparable test accuracy of 88.1977%.
-</p>
+      <p>In this study, we explore the use of a pre-trained BERT model for categorizing user intent, using the Amazon Massive Intent dataset with 60 intent categories. We start with a pre-trained BERT model as an encoder, adding a classifier layer for final predictions. This baseline achieves a test accuracy of 88.9711%. By reducing the batch size to 16 and incorporating warm-up and Layer-wise Learning Rate Decay (LLRD), we enhance the model's performance, reaching a test accuracy of 90.0471%. We experiment with contrastive loss functions, specifically SimCLR and SupContrast. SimCLR, an unsupervised method, yields a lower test accuracy of 61.829%, as expected. SupContrast, closer to our baseline approach, achieves a comparable test accuracy of 88.1977%.</p>
     </td>
   </tr>
 
