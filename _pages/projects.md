@@ -38,7 +38,7 @@ More unpublished/ongoing content to come!
       <strong>Yunfan Long</strong>
       <br>
       <a href="https://github.com/yunfanlong/NLP-Cohort-Generation">code</a>
-      <p>At UCSD Health, I explore the potential of Natural Language Processing (NLP) in streamlining the process of cohort generation from unstructured EHR data. I design an extraction pipeline using state-of-the-art unsupervised NLP models to automatically identify and categorize International Classification of Diseases (ICD) codes, drug names, and other relevant medical concepts. Automate data extraction, reduce manual curation efforts by 70%, and improve the efficiency of cohort generation processes by 50%.Achieve 82% accuracy in extracting medical concepts from diverse EHR sources.
+      <p>At UCSD Health, I explore the potential of Natural Language Processing (NLP) in streamlining the process of cohort generation from unstructured EHR data. I design an extraction pipeline using state-of-the-art unsupervised NLP models to automatically identify and categorize International Classification of Diseases (ICD) codes, drug names, and other relevant medical concepts. Automate data extraction, reduce manual curation efforts by 70%, and improve the efficiency of cohort generation processes by 50%. The current model achieves 82% accuracy in extracting medical concepts from diverse EHR sources.
 
       </p>
     </td>
