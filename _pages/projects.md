@@ -174,7 +174,6 @@ More unpublished/ongoing content to come!
       <p>In this project, I build a disk-oriented storage manager for the Badger DBMS. I implement Extendible Hash Table, LRU-K Replacement Policy, and Buffer Pool Manager Instance. Such a storage manager assumes that the primary storage location of the database is on disk. The project is to implement a buffer pool in my storage manager. The buffer pool is responsible for moving physical pages back and forth from main memory to disk. It allows a DBMS to support databases that are larger than the amount of memory that is available to the system. The buffer pool's operations are transparent to other parts in the system. For example, the system asks the buffer pool for a page using its unique identifier (page_id_t) and it does not know whether that page is already in memory or whether the system has to go retrieve it from disk.</p>
     </td>
   </tr>
-
 </table>
 
 ## Competitions
@@ -191,6 +190,7 @@ More unpublished/ongoing content to come!
       <a href="https://www.kaggle.com/yunfanlong">profile</a> / <a href="https://github.com/yunfanlong/Kaggle-G2NET-Competition">code</a>
       <p>In this competition, I developed a model using TensorFlow to analyze simulated Gravitational Wave (GW) time-series data from an Earth-based detector network. This involved the innovative application of Fourier transformation to convert the 1-D GW time series data into a 2-D frequency-domain format. Further enhancing the model's efficiency, I constructed a Constant-Q Transform (CQT) kernel and implemented mixed precision training, significantly reducing the training time. This approach led to a remarkable achievement: my model reached an accuracy of 87.8% in detecting gravitational waves, placing it in the top 5% among over a thousand competing teams. This work contributed to our understanding of cosmic phenomena, particularly in the areas of stellar-origin black holes and the expansion of the universe, showcasing my skills in data analysis and model development in a cutting-edge field of astrophysics.</p>
     </td>
+  </tr>
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -204,5 +204,4 @@ More unpublished/ongoing content to come!
       <p>Top 500 contestants in the US</p>
     </td>
   </tr>
-
 </table>
