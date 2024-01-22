@@ -11,9 +11,6 @@ toc_icon: "book"
 toc_sticky: true
 ---
 
-This page is still under construction. More unpublished/ongoing content will be added soon!
-
-
 ## Research
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
