@@ -178,4 +178,32 @@ More unpublished/ongoing content to come!
 
 </table>
 
-### Others
+### Competitions
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/g2net.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Kaggle G2Net Gravitational Wave Detection Competition: Silver Medal</h3>
+      <strong>Yunfan Long</strong>
+      <br>
+      <a href="https://www.kaggle.com/yunfanlong">profile</a> / <a href="https://github.com/yunfanlong/Kaggle-G2NET-Competition">code</a>
+      <p>In this competition, I developed a model using TensorFlow to analyze simulated Gravitational Wave (GW) time-series data from an Earth-based detector network. This involved the innovative application of Fourier transformation to convert the 1-D GW time series data into a 2-D frequency-domain format. Further enhancing the model's efficiency, I constructed a Constant-Q Transform (CQT) kernel and implemented mixed precision training, significantly reducing the training time. This approach led to a remarkable achievement: my model reached an accuracy of 87.8% in detecting gravitational waves, placing it in the top 5% among over a thousand competing teams. This work contributed to our understanding of cosmic phenomena, particularly in the areas of stellar-origin black holes and the expansion of the universe, showcasing my skills in data analysis and model development in a cutting-edge field of astrophysics.</p>
+    </td>
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/usaco.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>USA Computing Olympiad: Platinum Contestant</h3>
+      <strong>Yunfan Long</strong>
+      <br>
+      <a href="http://www.usaco.org/current/data/feb21_gold_results.html">result</a>
+      <p>Top 500 contestants in the US</p>
+    </td>
+  </tr>
+
+</table>
