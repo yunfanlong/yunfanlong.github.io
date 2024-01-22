@@ -11,7 +11,7 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
-During my tenure as an Undergraduate Teaching Assistant at UCSD, I had the opportunity to collaborate with a diverse group of instructors across various courses, as listed below. To illustrate the effectiveness and impact of our joint efforts, I have included instructor evaluations where available.
+As an Undergraduate Teaching Assistant at UCSD, I had the opportunity to collaborate with a diverse group of instructors across various courses, as listed below. To illustrate the effectiveness and impact of our joint efforts, I have included instructor evaluations where available.
 
 My responsibilities:
 
