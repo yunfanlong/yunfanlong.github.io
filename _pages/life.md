@@ -99,16 +99,16 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
 <style>
     .grid-container {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-gap: 5px;
+        grid-template-columns: repeat(3, 1fr); /* Adjust the fraction if necessary */
+        grid-gap: 3px; /* Reduced gap */
         justify-content: center;
         align-items: center;
     }
 
     .grid-item {
         width: 100%;
-        max-width: 250px;
-        max-height: 250px;
+        max-width: 250px; /* Adjust as needed */
+        max-height: 250px; /* Adjust as needed */
         margin: 0 auto;
         overflow: hidden;
         position: relative;
@@ -117,12 +117,19 @@ Below, you'll find six cute pictures about Coca and Cola. Hover your mouse over 
     .grid-item img {
         opacity: 0;
         transition: opacity 0.3s ease;
-        width: 100%;
+        width: 100%; /* Ensures images take full width of the grid item */
         height: auto;
     }
 
     .grid-item:hover img {
         opacity: 1;
+    }
+
+    /* Responsive adjustments for different screen sizes */
+    @media (max-width: 768px) {
+        .grid-container {
+            grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+        }
     }
 </style>
 <div class="grid-container">
