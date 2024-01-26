@@ -21,11 +21,10 @@ More unpublished/ongoing content to come!
       <img src="../assets/images/projects/cornet.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>LPnet: Log Polar Transformed Cornet Encoder with SIMCLR Decoder for Scene Verification</h3>
-      <strong>Yunfan Long</strong>
+      <h3>LPnet: Log Polar Transformed Cornet Encoder with Contrasive Loss for Scene Verification</h3>
+      <strong>Yunfan Long</strong>, Martha Gahl, Garrison Cottrell
       <br>
-      <a href="https://docs.google.com/presentation/d/19ZmARbVpGQAUvkekOrDVXUlb_zu-uErg/edit?usp=sharing&ouid=107659118907272604893&rtpof=true&sd=true">slides</a> / <a href="https://github.com/yunfanlong/GURU-Research">code</a>
-      <p>In this research prject, I develop and fine-tune LPnet, consisting of a log-polar-transformation-enhanced CORnet encoder and a SIMCLR decoder, for scene verification tasks in different visual angles. I implement DeepgazeII, IKN, and GBVS visual saliency algorithm to simulate human fixation pattern and investigate their performance difference. I also integrate an LSTM architecture in the final layer to incorporate saliency information from previous fixations. Evaluation is performed on the faces dataset, Imagenet dogs dataset, and Imagenet100 dataset with multiple rotations and scales to better understand how model performance is impacted by transformations to inputs at test time. Result shows that that LPnet outperforms euclidean CNN by 8% on average and demonstrates much better generalization at multiple rotations and scales, due to the partial invariance to scale and rotation granted by the log polar transform.</p>
+      <p>In this research project, I develop and fine-tune LPnet, consisting of a log-polar-transformation-enhanced CORnet encoder and a SIMCLR decoder, for scene verification tasks in different visual angles. I implement DeepgazeII, IKN, and GBVS visual saliency algorithm to simulate human fixation pattern and investigate their performance difference. I also integrate an LSTM architecture in the final layer to incorporate saliency information from previous fixations. Evaluation is performed on the faces dataset, Imagenet dogs dataset, and Imagenet100 dataset with multiple rotations and scales to better understand how model performance is impacted by transformations to inputs at test time. Result shows that that LPnet outperforms euclidean CNN by 8% on average and demonstrates much better generalization at multiple rotations and scales, due to the partial invariance to scale and rotation granted by the log polar transform.</p>
     </td>
   </tr>
 
