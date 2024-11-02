@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Yunfan \"Justin\" Long"
   avatar           : "/assets/images/yunfan-long.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master Student at CMU"
+  bio              : "Master Student @ CMU SCS"
   location         : "Pittsburgh, PA"
   email            : "justinlo@cs.cmu.edu"
   uri              :
