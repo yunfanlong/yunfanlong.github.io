@@ -90,9 +90,9 @@ analytics:
 author:
   name             : "Yunfan \"Justin\" Long"
   avatar           : "/assets/images/yunfan-long.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate student at UCSD"
-  location         : "San Diego, CA"
-  email            : "yulong@ucsd.edu"
+  bio              : "Graduate at CMU"
+  location         : "Pittsburgh, PA"
+  email            : "justinlo@cs.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,8 +104,8 @@ author:
   google_plus      :
   keybase          :
   lastfm           :
-  linkedin         : "justin-long-05b940239"
-  # instagram        : "larryliweiyue"
+  linkedin         : "yunfan-long"
+  # instagram        : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
