@@ -29,7 +29,7 @@ Beyond academics, I'm a jazz band drummer who has two dogs. Discover more at [Li
 
 My calendar is embeded below. All events are tentative and subject to change.
 
-<iframe src="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&mode=WEEK&src=eXVsb25nQHVjc2QuZWR1&color=%234285F4" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=justinlo%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK&src=eXVsb25nQHVjc2QuZWR1&color=%234285F4" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ---
 
