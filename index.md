@@ -8,7 +8,7 @@ classes: wide
 
 ## About Me
 
-Hello! My name is **Yunfan Long**. I am a first-year master student at the Carnegie Mellon University's School of Computer Science, pursuing a degree in Computational Data Science (MS). I am expected to graduate in May 2026.
+Hello! My name is **Yunfan Long**. I am a first-year master student at the Carnegie Mellon University's School of Computer Science, pursuing an MS degree in Computational Data Science. I am expected to graduate in May 2026.
 
 
 My primary research interest is centered around the development and optimization of <u>Computer Vision</u> models on <u>Scene Recognition</u> tasks, specifically for out-of-distribution image. Leveraging my expertise in machine learning, deep learning, and data analysis, I've made significant contributions to various research and internship projects in the healthcare industry.
